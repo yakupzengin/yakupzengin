@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 # Yakup<br> <h3>Hi there! My name is Yakup and I'm a computer engineering student. I have a strong interest in the web field and I develop projects using web technologies. I'm always eager to learn more and expand my knowledge of different technologies.<br><br>## Skills and Interests<br>- Web development<br>- Learning new technologies<br><br>Feel free to reach out to me if you have any questions or would like to collaborate on a project!<br>yakupzengin0@outlook.com.tr </h3> <br>
 
 
