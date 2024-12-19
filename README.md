@@ -1,5 +1,5 @@
 # About Me:
-👨🏻‍💻 I am a Computer Engineering student with a growing specialization in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I am passionate about leveraging cutting-edge technologies such as TensorFlow, PyTorch, OpenCV, and Python to create impactful solutions. My focus is on Computer Vision and Natural Language Processing, always exploring new ways to merge AI with real-world applications.
+👨🏻‍💻 I am a Computer Engineering student with a growing specialization in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I am passionate about leveraging cutting-edge technologies such as TensorFlow, PyTorch, OpenCV, and Python to create impactful solutions. My focus is on Computer Vision, always exploring new ways to merge AI with real-world applications.
 
 With hands-on experience in both AI and web development (using React, Java Spring Boot, and SQL), I strive to build scalable, high-performance systems that push the boundaries of innovation. I’m always excited to learn and collaborate on projects that shape the future of technology.
 
