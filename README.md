@@ -1,5 +1,10 @@
 # About Me:
-# Yakup<br> <h3>Hi there! My name is Yakup and I'm a computer engineering student. I have a strong interest in the web field and I develop projects using web technologies. I'm always eager to learn more and expand my knowledge of different technologies.<br><br>Feel free to reach out to me if you have any questions or would like to collaborate on a project!<br>yakupzengin0@outlook.com.tr </h3> <br>
+👨🏻‍💻 I am a Computer Engineering student with a growing specialization in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I am passionate about leveraging cutting-edge technologies such as TensorFlow, PyTorch, OpenCV, and Python to create impactful solutions. My focus is on Computer Vision and Natural Language Processing, always exploring new ways to merge AI with real-world applications.
+
+With hands-on experience in both AI and web development (using React, Java Spring Boot, and SQL), I strive to build scalable, high-performance systems that push the boundaries of innovation. I’m always excited to learn and collaborate on projects that shape the future of technology.
+
+Let’s connect if you're interested in collaborating on AI-driven projects or exploring new technological horizons together!
+yakupzengin0@outlook.com.tr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yakupzengin&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
